@@ -6,6 +6,6 @@ Hi there 👋
 Message me below to chat 👇
 <br>
 [My LinkedIn Profile](https://www.linkedin.com/in/jonathan-sher/)
-
+[Portfolio Site](https://itsjonnie.github.io/jsher.github.io/)
 
 
