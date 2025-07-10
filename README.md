@@ -10,14 +10,9 @@ Hi there 👋
   </a>
 </div>
 
- 
-<br>
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsJonnie)[![Portfolio](https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsjonnie.github.io/jsher.github.io/)
