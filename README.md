@@ -6,8 +6,8 @@ Hi there 👋
 Reach out to me below on LinkedIn to chat 👇
 <br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonathan-sher/)
-
-
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dark)](https://git.io/streak-stats)
 
 
 
