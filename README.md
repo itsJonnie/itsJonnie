@@ -17,7 +17,9 @@ Hi there 👋
   </a>
 </div>
 
+<div align="center">
 [![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=daily)](https://github.com/PiyushKalyan/quotes-github-readme)
+</div>
 
 ## Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dracula)](https://git.io/streak-stats)
