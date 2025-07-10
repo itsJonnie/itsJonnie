@@ -7,7 +7,10 @@ Reach out to me below on LinkedIn to chat 👇
 <br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonathan-sher/)
 <br>
+## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
