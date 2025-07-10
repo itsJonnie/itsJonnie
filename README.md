@@ -24,3 +24,5 @@ Hi there 👋
 <br>
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsJonnie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=daily)](https://github.com/PiyushKalyan/quotes-github-readme)
+
