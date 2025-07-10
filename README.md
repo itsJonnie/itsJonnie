@@ -18,7 +18,9 @@ Hi there 👋
 </div>
 
 <div align="center">
-[![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=daily)](https://github.com/PiyushKalyan/quotes-github-readme)
+  <a href="https://github.com/PiyushKalyan/quotes-github-readme">
+    <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
+  </a>
 </div>
 
 ## Stats 📊
