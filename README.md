@@ -7,6 +7,6 @@ Reach out to me below on LinkedIn to chat 👇
 <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsJonnie)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonathan-sher/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsjonnie.github.io/jsher.github.io/)
 
