@@ -26,7 +26,7 @@ Hi there 👋
 ## Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dracula)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJonnie&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJonnie&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsJonnie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
