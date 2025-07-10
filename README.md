@@ -17,6 +17,8 @@ Hi there 👋
   </a>
 </div>
 
+[![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=daily)](https://github.com/PiyushKalyan/quotes-github-readme)
+
 ## Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dracula)](https://git.io/streak-stats)
 <br>
@@ -24,5 +26,4 @@ Hi there 👋
 <br>
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsJonnie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=daily)](https://github.com/PiyushKalyan/quotes-github-readme)
 
