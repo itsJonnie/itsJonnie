@@ -1,41 +1,46 @@
-# Jonathan Sher  ⚡
+# Jonathan Sher | Zero to One Builder. ⚡
 
-### 🎓 B.S. Computer Information Technology @ CSUN 
-**Expected Graduation: May 2026**
-<br>
-I specialize in the infrastructure of the future: **Networking, Distributed Systems, and AI/Machine Learning**. With a **3.82 GPA** and a background in Data Science from the **University of Sydney**, I build systems designed for scale and technical superiority.
+### AI for the real world. Building in public like it’s war. 
+**Deployment Target: May 2026**
+I don’t just write code; I architect technical dominance. With a **3.82 GPA** and a pedigree spanning **CSUN** and the **University of Sydney**, I am engineering the infrastructure where Data Science meets high-stakes IT.
 
 > [!IMPORTANT]
-> **Availability:** My final semester is 100% online. I am currently seeking **Full-Time or Internship** roles in AI/IT where I can deploy my technical stack immediately.
+> **Graduation:** Final coursework is 100% online. Currently seeking **Internship or Full-Time** roles in AI/IT where I can be surrounded by winner and builld at the cutting-edge.
+---
+
+### 🚀 High-Velocity Execution
+* **Microsoft Student Ambassador:** Evangelizing **Azure Cloud, AI, and Copilot** through high-intensity technical workshops.
+* **Tesla (Delivery Operations):** Validating the integrity of **Autopilot systems and vehicle software** for the world's most advanced autonomous fleet.
+* **Associated Students Senator:** Advised university leadership on policy and resource allocation for **17,000+ stakeholders**.
 
 ---
 
-### 🚀 High-Velocity Experience
-* **Microsoft Student Ambassador:** Architecting technical workshops on **Azure AI fundamentals, Cloud workflows, and Copilot**.
-* **Tesla (Delivery Operations):** Validating **Autopilot features, sensor status, and software integrity** to ensure mission-critical fleet readiness.
-* **Former Lower Division Senator:** Led policy initiatives and advised leadership for a constituency of **17,000 students**.
+### 📂 The Build Log
+* **PredictX: The Future of Prediction Markets:** A full-stack platform for sports and crypto featuring **autonomous AI trading bots** with configurable risk.
+* **Surf Forecast AI Analyzer:** A production-ready application leveraging **FastAPI and Docker** to process real-time environmental data at scale.
+* **Advanced Recommendation Engine:** Optimized a KNN model to achieve a **30% increase in runtime efficiency**. Speed is life.
+* **SOSE Infrastructure:** Deployed a secure, public-facing site via **Apache2 and Cloudflare Tunnels** for the Society of Software Engineers.
 
 ---
 
-### 📂 Engineering Projects
-* **PredictX: Full-Stack Prediction Market:** A high-performance prediction market platform featuring **AI-powered market suggestions** and an **autonomous trading bot** with configurable risk.
-* **Surf Forecast AI Analyzer:** A containerized, production-ready application using **FastAPI and Docker** to process real-time environmental data.
-* **Movie Recommendation Engine:** Engineered a KNN-based system on the MovieLens 100k dataset, optimizing runtime efficiency by **30%**.
-* **SOSE Website Hackathon:** Deployed a secure, public-facing site using **Apache2, Ubuntu, and Cloudflare Tunnels**.
+### 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsJonnie&show_icons=true&theme=tokyonight" alt="Jonathan's GitHub Stats" />
+</p>
 
 ---
 
-### 🛠️ Technical Stack
-| Domain | Technologies |
+### 🛠️ Technical Weaponry
+| Tier | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript/TypeScript, R, SQL |
+| **Core** | Python, Java, JavaScript/TypeScript, R, SQL |
 | **AI/ML** | PyTorch, TensorFlow, scikit-learn, Pandas, NumPy |
-| **Cloud/DevOps** | Azure, AWS (EC2, S3), Docker, FastAPI, CI/CD, Git |
-| **Systems** | Linux (Ubuntu), MacOS, Windows |
+| **Infra** | Azure, AWS, Docker, FastAPI, CI/CD, Git |
+| **OS** | Linux (Ubuntu), MacOS, Windows |
 
 ---
 
-### 📜 Professional Certifications
+### 📜 Elite Certifications
 * **Machine Learning Specialization** – Stanford University (Andrew Ng)
 * **Learning AI Through Visualization** – Columbia University
 * **Data Scientist with R & SQL Fundamentals** – DataCamp
@@ -59,4 +64,4 @@ I specialize in the infrastructure of the future: **Networking, Distributed Syst
   <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
 </p>
 
-![Jonnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsJonnie&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie)](https://git.io/streak-stats)
