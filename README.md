@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
-</p>
 
 ### AI for the real world. Building in public like it’s war. 
 **Graduation: May 2026**
@@ -47,6 +44,9 @@ I don’t just write code; I architect technical dominance. With a **3.82 GPA** 
 * **Learning AI Through Visualization** – Columbia University
 * **Data Scientist with R & SQL Fundamentals** – DataCamp
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
+</p>
 ---
 
 
