@@ -1,47 +1,47 @@
-# Hi there, I'm Jonathan Sher! 👋 
+# Jonathan Sher | Engineering at the Cutting Edge ⚡
 
-### 🎓 B.S. Computer Information Technology @ CSUN
-[cite_start]**Expected Graduation: May 2026** 
-I am a technical innovator specializing in **Networking, IT Systems**, and **AI/Machine Learning**. [cite_start]Currently, I am a **Microsoft Student Ambassador**  [cite_start]and a CIT student at California State University, Northridge, with a 3.82 GPA[cite: 4, 7]. 
+### 🎓 B.S. Computer Information Technology @ CSUN 
+**Expected Graduation: May 2026**
+I specialize in the infrastructure of the future: **Networking, Distributed Systems, and AI/Machine Learning**. With a **3.82 GPA** and a background in Data Science from the **University of Sydney**, I build systems designed for scale and technical superiority.
 
 > [!IMPORTANT]
-> **Availability:** As my final courses are online, I am seeking **Internship** or **Full-Time** opportunities starting immediately or upon graduation in May 2026.
+> **Availability:** My final semester is 100% online. I am currently seeking **Full-Time or Internship** roles in AI/IT where I can deploy my technical stack immediately.
 
 ---
 
-### 🚀 Experience & Leadership
-* [cite_start]**Microsoft Student Ambassador:** Leading technical workshops on **Azure cloud, Copilot, and AI fundamentals** to help students build cloud-based workflows[cite: 24, 25].
-* [cite_start]**Tesla (Delivery Vehicle Prep):** Conducting demo drives, engaging Autopilot features, and ensuring software/sensor readiness for vehicle deliveries[cite: 19, 20].
-* [cite_start]**Former Lower Division Senator:** Represented ~17,000 students at CSUN, advising university leadership on academic access and resource allocation[cite: 31, 32].
+### 🚀 High-Velocity Experience
+* **Microsoft Student Ambassador:** Architecting technical workshops on **Azure AI fundamentals, Cloud workflows, and Copilot**.
+* **Tesla (Delivery Operations):** Validating **Autopilot features, sensor status, and software integrity** to ensure mission-critical fleet readiness.
+* **Former Lower Division Senator:** Led policy initiatives and advised leadership for a constituency of **17,000 students**.
 
 ---
 
-### 🛠️ Technical Toolbox
+### 📂 Engineering Projects
+* **PredictX: Full-Stack Prediction Market:** A high-performance platform featuring **AI-powered market suggestions** and an **autonomous trading bot** with configurable risk.
+* **Surf Forecast AI Analyzer:** A containerized, production-ready application using **FastAPI and Docker** to process real-time environmental data.
+* **Advanced Recommendation Engine:** Engineered a KNN-based system on the MovieLens 100k dataset, optimizing runtime efficiency by **30%**.
+* **SOSE Infrastructure:** Deployed a secure, public-facing site using **Apache2, Ubuntu, and Cloudflare Tunnels**.
 
-| Category | Skills |
+---
+
+### 🛠️ Technical Stack
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, JavaScript/TypeScript, R, SQL [cite: 45] |
-| **AI & Data** | [cite_start]PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib [cite: 46] |
-| **Cloud & DevOps** | [cite_start]Azure, AWS (EC2, S3), Docker, FastAPI, CI/CD, Git [cite: 47] |
-| **Operating Systems** | [cite_start]Linux (Ubuntu), MacOS, Windows [cite: 48] |
+| **Languages** | Python, Java, JavaScript/TypeScript, R, SQL |
+| **AI/ML** | PyTorch, TensorFlow, scikit-learn, Pandas, NumPy |
+| **Cloud/DevOps** | Azure, AWS (EC2, S3), Docker, FastAPI, CI/CD, Git |
+| **Systems** | Linux (Ubuntu), MacOS, Windows |
 
 ---
 
-### 📂 Featured Projects
-* [cite_start]**Surf Forecast AI Analyzer:** A full-stack application using **FastAPI** and **Docker** to process real-time data through external APIs[cite: 38, 39, 40].
-* [cite_start]**SOSE Hackathon Website:** Collaborated to deploy a secure, public-facing site for the Society of Software Engineers using **Apache2** on **Ubuntu** and **Cloudflare Tunnels**[cite: 34, 36].
-* [cite_start]**Movie Recommendation System:** Built a KNN-based engine on the MovieLens dataset, optimizing runtime efficiency by ~30%[cite: 41, 42, 43].
+### 📜 Professional Certifications
+* **Machine Learning Specialization** – Stanford University (Andrew Ng)
+* **Learning AI Through Visualization** – Columbia University
+* **Data Scientist with R & SQL Fundamentals** – DataCamp
 
 ---
 
-### 📜 Certifications
-* [cite_start]**Machine Learning Specialization** – Stanford University / DeepLearning.AI [cite: 49]
-* [cite_start]**Learning AI Through Visualization** – Columbia University [cite: 49]
-* [cite_start]**Data Scientist with R** & **SQL Fundamentals** – DataCamp [cite: 49, 50]
-
----
-
-### 🤝 Connect With Me
+### 🤝 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/jonathan-sher/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -49,18 +49,12 @@ I am a technical innovator specializing in **Networking, IT Systems**, and **AI/
   <a href="https://github.com/itsJonnie">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://x.com/officialjsher">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
 </p>
-</div>
-
-## Stats 📊
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie&theme=dracula)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJonnie&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsJonnie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 
