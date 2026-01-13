@@ -2,6 +2,7 @@
 
 ### 🎓 B.S. Computer Information Technology @ CSUN 
 **Expected Graduation: May 2026**
+<br>
 I specialize in the infrastructure of the future: **Networking, Distributed Systems, and AI/Machine Learning**. With a **3.82 GPA** and a background in Data Science from the **University of Sydney**, I build systems designed for scale and technical superiority.
 
 > [!IMPORTANT]
