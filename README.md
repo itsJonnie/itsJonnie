@@ -1,4 +1,4 @@
-# Jonathan Sher | Engineering at the Cutting Edge ⚡
+# Jonathan Sher  ⚡
 
 ### 🎓 B.S. Computer Information Technology @ CSUN 
 **Expected Graduation: May 2026**
