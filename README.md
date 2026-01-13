@@ -12,9 +12,9 @@ Hi there 👋
   <a href="https://www.linkedin.com/in/jonathan-sher/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- <a href="https://www.jonathansher.vip">
-    <img src="https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a> -->
+  <a href="https://x.com/officialjsher">
+    <![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)>
+  </a>
 </div>
 
 <div align="center">
