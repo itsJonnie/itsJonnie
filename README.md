@@ -15,12 +15,12 @@
 ### Solving High-Value Problems through AI, Autonomy, and Data 🚀
 **B.S. Computer Information Technology @ CSUN | Expected Graduation: May 2026**
 
-I am an ambitious and high-energy undergraduate student completing my final year in Computer Information Technology (CIT) with a 3.82 GPA. My background includes foundational Data Science studies at the University of Sydney, and I plan to pursue a technology-focused Master’s (M.Eng or Data Science) to deepen my technical wisdom.
+I am an ambitious and high-energy undergraduate student completing my final year in Computer Information Technology (CIT) with a 3.82 GPA. My background includes two years of Data Science studies at the University of Sydney, and I plan to pursue a technology-focused Master’s (M.Eng or Data Science) to deepen my technical expertise.
 
 Long-term, I am here to build and lead companies that use AI, autonomy, and data to solve the hardest, most valuable problems on the planet. I am currently seeking a challenging internship that leverages my technical aptitude and interpersonal skills while providing meaningful opportunities for growth.
 
-> [!NOTE]
-> **Operational Status:** My final year courses are 100% online, allowing me to commit fully to a professional role immediately.
+> [!IMPORTANT]
+> **Current Status:** My final year courses are 100% online, allowing me to commit fully to a professional role immediately. I am seeking an internship where I can apply my skills in a meaningful way.
 
 ---
 
