@@ -48,9 +48,21 @@ Long-term, I am here to build and lead companies that use AI, autonomy, and data
 ---
 
 ### 📜 Certifications
-* **Machine Learning Specialization** – Stanford University / DeepLearning.AI
-* **Learning AI Through Visualization** – Columbia University
-* **Data Scientist with R & SQL Fundamentals** – DataCamp
+**AI & Machine Learning**
+* **Machine Learning Specialization** – Stanford University / DeepLearning.AI (2025) 
+* **Advanced Learning Algorithms** – DeepLearning.AI (2025)
+* **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI (2025)
+* **Learning AI Through Visualization** – Columbia University (2025)
+* **AWS Educate: Introduction to Generative AI** – Amazon Web Services (2024)
+
+**Strategy & Cloud**
+* **Strategy Consulting Job Simulations** – Boston Consulting Group (BCG) (2025)
+* **AWS Academy Graduate: Cloud Foundations** – Amazon Web Services (2024)
+* **AWS Certified Cloud Practitioner Cert Prep** – LinkedIn (2024)
+
+**Technical Foundations**
+* **Data Scientist with R / SQL Fundamentals** – DataCamp (2021)
+* **JavaScript / HTML / CSS** – Sololearn (2023)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie)](https://git.io/streak-stats)
 
