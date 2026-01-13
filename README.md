@@ -18,7 +18,7 @@ I specialize in the infrastructure of the future: **Networking, Distributed Syst
 ---
 
 ### 📂 Engineering Projects
-* **PredictX: Full-Stack Prediction Market:** A high-performance platform featuring **AI-powered market suggestions** and an **autonomous trading bot** with configurable risk.
+* **PredictX: Full-Stack Prediction Market:** A high-performance prediction market platform featuring **AI-powered market suggestions** and an **autonomous trading bot** with configurable risk.
 * **Surf Forecast AI Analyzer:** A containerized, production-ready application using **FastAPI and Docker** to process real-time environmental data.
 * **Advanced Recommendation Engine:** Engineered a KNN-based system on the MovieLens 100k dataset, optimizing runtime efficiency by **30%**.
 * **SOSE Infrastructure:** Deployed a secure, public-facing site using **Apache2, Ubuntu, and Cloudflare Tunnels**.
