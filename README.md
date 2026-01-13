@@ -8,13 +8,6 @@ I don’t just write code; I architect technical dominance. With a **3.82 GPA** 
 > **Current Staus:** Final coursework is 100% online. Currently seeking **Internship or Full-Time** roles in AI/IT where I can be surrounded by winners and builld at the cutting-edge.
 ---
 
-### 🚀 High-Velocity Execution
-* **Microsoft Student Ambassador:** Evangelizing **Azure Cloud, AI, and Copilot** through high-intensity technical workshops.
-* **Tesla (Delivery Operations):** Validating the integrity of **Autopilot systems and vehicle software** for the world's most advanced autonomous fleet.
-* **Associated Students Senator:** Advised university leadership on policy and resource allocation for **17,000+ stakeholders**.
-
----
-
 ### 📂 The Build Log
 * **PredictX: The Future of Prediction Markets:** A full-stack platform for sports and crypto featuring **autonomous AI trading bots** with configurable risk.
 * **Surf Forecast AI Analyzer:** A production-ready application leveraging **FastAPI and Docker** to process real-time environmental data at scale.
