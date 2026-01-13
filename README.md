@@ -34,8 +34,8 @@ Long-term, I am here to build and lead companies that use AI, autonomy, and data
 ### 📂 Technical Projects
 * **PredictX - Prediction Market:** A full-stack platform featuring **AI-driven market suggestions** and an autonomous trading bot with configurable risk.
 * **Surf Forecast AI Analyzer:** A containerized application using **FastAPI and Docker** to process real-time environmental data for actionable insights.
-* **Advanced Recommendation Engine:** Built a system using KNN that optimized data processing and improved runtime efficiency by **30%**.
-* **SOSE Infrastructure:** Collaborated on a secure web deployment using **Apache2 and Cloudflare Tunnels** to improve club visibility.
+* **Advanced Movie Recommendation Engine:** Built a system using KNN that optimized data processing and improved runtime efficiency by **30%**.
+* **SOSE Hackathon Website:** Collaborated on a secure web deployment using **Apache2 and Cloudflare Tunnels** to improve club visibility.
 
 ---
 
