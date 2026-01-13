@@ -1,4 +1,20 @@
 # Jonathan Sher | Zero to One Builder. ⚡
+### 🤝 Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonathan-sher/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/itsJonnie">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/officialjsher">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
+</p>
 
 ### AI for the real world. Building in public like it’s war. 
 **Graduation: May 2026**
@@ -13,13 +29,6 @@ I don’t just write code; I architect technical dominance. With a **3.82 GPA** 
 * **Surf Forecast AI Analyzer:** A production-ready application leveraging **FastAPI and Docker** to process real-time environmental data at scale.
 * **Advanced Recommendation Engine:** Optimized a KNN model to achieve a **30% increase in runtime efficiency**. Speed is life.
 * **SOSE Infrastructure:** Deployed a secure, public-facing site via **Apache2 and Cloudflare Tunnels** for the Society of Software Engineers.
-
----
-
-### 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsJonnie&show_icons=true&theme=tokyonight" alt="Jonathan's GitHub Stats" />
-</p>
 
 ---
 
@@ -40,21 +49,12 @@ I don’t just write code; I architect technical dominance. With a **3.82 GPA** 
 
 ---
 
-### 🤝 Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/jonathan-sher/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/itsJonnie">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/officialjsher">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie)](https://git.io/streak-stats)
+
+### 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsJonnie&show_icons=true&theme=tokyonight" alt="Jonathan's GitHub Stats" />
+</p>
+
+---
