@@ -40,7 +40,7 @@ Long-term, I am here to build and lead companies that use AI, autonomy, and data
 ---
 
 ### 🛠️ Technical Skills
-* **Programming:** Python, Java, JavaScript/TypeScript, R, SQL
+* **Programming:** Python, Java, JavaScript/TypeScript/React, R, SQL
 * **AI & Data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
 * **Cloud & DevOps:** Azure, AWS, Docker, FastAPI, CI/CD, Git
 * **Systems:** Linux (Ubuntu), MacOS, Windows
