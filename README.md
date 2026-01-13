@@ -5,7 +5,7 @@
 I don’t just write code; I architect technical dominance. With a **3.82 GPA** and a pedigree spanning **CSUN** and the **University of Sydney**, I am engineering the infrastructure where Data Science meets high-stakes IT.
 
 > [!IMPORTANT]
-> **Current Staus:** Final coursework is 100% online. Currently seeking **Internship or Full-Time** roles in AI/IT where I can be surrounded by winner and builld at the cutting-edge.
+> **Current Staus:** Final coursework is 100% online. Currently seeking **Internship or Full-Time** roles in AI/IT where I can be surrounded by winners and builld at the cutting-edge.
 ---
 
 ### 🚀 High-Velocity Execution
