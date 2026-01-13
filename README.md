@@ -1,5 +1,5 @@
-# Jonathan Sher | Zero to One Builder. ⚡
-### 🤝 Connect
+# Jonathan Sher 👋
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jonathan-sher/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,43 +12,45 @@
   </a>
 </p>
 
+### Solving High-Value Problems through AI, Autonomy, and Data 🚀
+**B.S. Computer Information Technology @ CSUN | Expected Graduation: May 2026**
 
-### AI for the real world. Building in public like it’s war. 
-**Graduation: May 2026**
-I don’t just write code; I architect technical dominance. With a **3.82 GPA** and a pedigree spanning **CSUN** and the **University of Sydney**, I am engineering the infrastructure where Data Science meets high-stakes IT.
+I am an ambitious and high-energy undergraduate student completing my final year in Computer Information Technology (CIT) with a 3.82 GPA. My background includes foundational Data Science studies at the University of Sydney, and I plan to pursue a technology-focused Master’s (M.Eng or Data Science) to deepen my technical wisdom.
 
-> [!IMPORTANT]
-> **Current Staus:** Final coursework is 100% online. Currently seeking **Internship or Full-Time** roles in AI/IT where I can be surrounded by winners and builld at the cutting-edge.
----
+Long-term, I am here to build and lead companies that use AI, autonomy, and data to solve the hardest, most valuable problems on the planet. I am currently seeking a challenging internship that leverages my technical aptitude and interpersonal skills while providing meaningful opportunities for growth.
 
-### 📂 The Build Log
-* **PredictX: The Future of Prediction Markets:** A full-stack platform for sports and crypto featuring **autonomous AI trading bots** with configurable risk.
-* **Surf Forecast AI Analyzer:** A production-ready application leveraging **FastAPI and Docker** to process real-time environmental data at scale.
-* **Advanced Recommendation Engine:** Optimized a KNN model to achieve a **30% increase in runtime efficiency**. Speed is life.
-* **SOSE Infrastructure:** Deployed a secure, public-facing site via **Apache2 and Cloudflare Tunnels** for the Society of Software Engineers.
+> [!NOTE]
+> **Operational Status:** My final year courses are 100% online, allowing me to commit fully to a professional role immediately.
 
 ---
 
-### 🛠️ Technical Weaponry
-| Tier | Technologies |
-| :--- | :--- |
-| **Core** | Python, Java, JavaScript/TypeScript, R, SQL |
-| **AI/ML** | PyTorch, TensorFlow, scikit-learn, Pandas, NumPy |
-| **Infra** | Azure, AWS, Docker, FastAPI, CI/CD, Git |
-| **OS** | Linux (Ubuntu), MacOS, Windows |
+### 🚀 Professional Experience
+* **Microsoft Student Ambassador:** Leading technical workshops on **Azure AI fundamentals and Cloud workflows** to help students build data-driven solutions.
+* **Tesla (Delivery Operations):** Ensuring quality and software readiness for deliveries, including verifying **Autopilot features and sensor status**.
+* **Associated Students Senator:** Advocated for **17,000 students** and advised university leadership on academic resource allocation and campus engagement.
 
 ---
 
-### 📜 Elite Certifications
-* **Machine Learning Specialization** – Stanford University (Andrew Ng)
+### 📂 Technical Projects
+* **PredictX - Prediction Market:** A full-stack platform featuring **AI-driven market suggestions** and an autonomous trading bot with configurable risk.
+* **Surf Forecast AI Analyzer:** A containerized application using **FastAPI and Docker** to process real-time environmental data for actionable insights.
+* **Advanced Recommendation Engine:** Built a system using KNN that optimized data processing and improved runtime efficiency by **30%**.
+* **SOSE Infrastructure:** Collaborated on a secure web deployment using **Apache2 and Cloudflare Tunnels** to improve club visibility.
+
+---
+
+### 🛠️ Technical Skills
+* **Programming:** Python, Java, JavaScript/TypeScript, R, SQL
+* **AI & Data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
+* **Cloud & DevOps:** Azure, AWS, Docker, FastAPI, CI/CD, Git
+* **Systems:** Linux (Ubuntu), MacOS, Windows
+
+---
+
+### 📜 Certifications
+* **Machine Learning Specialization** – Stanford University / DeepLearning.AI
 * **Learning AI Through Visualization** – Columbia University
 * **Data Scientist with R & SQL Fundamentals** – DataCamp
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
-</p>
----
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsJonnie)](https://git.io/streak-stats)
 
