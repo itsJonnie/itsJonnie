@@ -59,3 +59,7 @@ I specialize in the infrastructure of the future: **Networking, Distributed Syst
   <img src="https://quotes-github-readme.vercel.app/api?type=daily" alt="Daily Dev Quote">
 </p>
 
+### 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsJonnie&show_icons=true&theme=tokyonight" alt="Jonathan's GitHub Stats" />
+</p>
